@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.VR-Kit-bg{
+    background-color: #f9fbfe;
+    font-family: Roboto;
+    padding: 20px;
+    
+}
+h1{
+    font-weight: bold;
+    padding-bottom: 20px;
+    color: #1f2933;
+}
+p{
+    padding-bottom: 25px;
+    font-size: 20px;
+    color: #323f4b;
+}
+.kit-container{
+    text-align: center;
+}
